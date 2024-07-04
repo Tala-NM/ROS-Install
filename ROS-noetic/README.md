@@ -10,12 +10,12 @@
 3. Follow the VirtualBox prompts to set up the VM and use the downloaded ISO file as the boot image.
 4. Install Ubuntu on the virtual machine.
 
-![Ubuntu Setup](IMG_4977.jpg)
+![Ubuntu Setup](IMG_4973.jpg)
 
 ### 3. Install ROS Noetic
 1. Open the terminal in Ubuntu.
 
-![Open the terminal](IMG_4973.jpg)
+![Open the terminal](IMG_4976.jpg)
 
 2. Add the ROS Noetic repository:
     ```bash
@@ -27,7 +27,7 @@
     curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo apt-key add -
     ```
 
- ![Set up Keys](IMG_4976.jpg)
+ ![Set up Keys](IMG_4977.jpg)
 
 4. Update your package index:
     ```bash
