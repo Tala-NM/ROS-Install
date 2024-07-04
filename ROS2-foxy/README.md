@@ -4,7 +4,6 @@
 
 ### 1. Install ROS2 Foxy
 1. Open the terminal in Ubuntu.
-
 ![Open the terminal](IMG_4980.jpg)
 
 
@@ -38,5 +37,6 @@
 Run the following command to verify the installation:
 ```bash
 ros2 run demo_nodes_cpp talker
+```
 
 ![Set up Keys](IMG_4982.jpg)
